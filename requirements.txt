@@ -1,5 +1,11 @@
+numpy==1.21
 scipy==1.8.0
 scprep==1.1.0
+scanpy
+phate
+meld
+tqdm
+
 # Dev requirements
 meld==1.0.0
 rpy2==3.4.3
